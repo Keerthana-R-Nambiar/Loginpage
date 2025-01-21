@@ -1,0 +1,57 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    min-width: none;
+    background:url("dark2.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.for
+{
+    color: white;
+    margin-left: 65px;
+
+}
+.divv
+{
+    color: white;
+    margin-left: 55px;
+}
+.for input
+{
+    margin-top: 8px;
+    color: white;
+}
+button{
+    margin-bottom: 20px;
+    margin-top: -10px ;
+}
+.text
+{
+    width:20px;
+}
+.bttn
+{
+    margin-left: 18vh;
+}
+
+.btn
+{
+    margin-top: 15px;
+    margin-left: 17vh;
+}
+.m
+{
+    color: black;
+    backdrop-filter: blur(8px);
+    background: transparent;
+    border: 1px solid rgba(255,255,255,0.5);
+    margin-bottom: 20px;
+}
+::placeholder
+{
+    color: white;
+}
